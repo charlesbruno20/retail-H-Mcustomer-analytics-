@@ -146,4 +146,4 @@ The business requirements, KPI definitions and scope are in [`docs/Business_Requ
 ## Author
 
 Charles Bruno G, Data Analyst (SQL, Power BI, Python)
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/charles-brunog/) 
